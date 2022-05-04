@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/day-planner/static/css/main.c056ebc5.css",
+    "main.js": "/day-planner/static/js/main.380415af.js",
+    "index.html": "/day-planner/index.html",
+    "main.c056ebc5.css.map": "/day-planner/static/css/main.c056ebc5.css.map",
+    "main.380415af.js.map": "/day-planner/static/js/main.380415af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c056ebc5.css",
+    "static/js/main.380415af.js"
+  ]
+}
